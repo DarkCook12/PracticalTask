@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/icons8-квадрат-24.svg</file>
+        <file>icons/icons8-линия-24.svg</file>
+        <file>icons/icons8-старт-24.svg</file>
+    </qresource>
+</RCC>
